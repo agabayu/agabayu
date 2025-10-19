@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm a freshman at Northeastern University!
+
+I recently participated in the NU ACM Hackathon, where my team and I won a track in best product in Finances, creating an app that allows users to optimize their dining experience.
